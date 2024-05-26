@@ -5,7 +5,7 @@ experience creating dynamic, responsive, and userfriendly websites. I love to bu
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
 
-#### 🚀 Notable Projects:
+### 🚀 Notable Projects:
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
 - [SPI Computer Club](https://computer-club-spi.vercel.app/) : For Our Computer Club
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
