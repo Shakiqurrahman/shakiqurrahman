@@ -1,6 +1,5 @@
 # 💫 About Me:
-##### Hi 👋 I'm Shakiqur, a professional web developer with several years of
-experience creating dynamic, responsive, and userfriendly websites. I love to building innovative solutions and contributing to the open-source community.
+##### Hi 👋 I'm Shakiqur, a professional web developer with several years of experience creating dynamic, responsive, and userfriendly websites. I love to building innovative solutions and contributing to the open-source community.
 
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
