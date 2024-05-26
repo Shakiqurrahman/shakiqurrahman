@@ -6,10 +6,10 @@ experience creating dynamic, responsive, and userfriendly websites. I love to bu
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
 
 ### 🚀 Notable Projects:
-- [Patagonia Explore](https://patagoniaexplore.com/) : a Travel Agency
-- [SPI Computer Club](https://computer-club-spi.vercel.app/) : a Computer Club
-- [Crypto Wave](https://crypto-wave-agency.netlify.app/) : a Digital Service Providing Agency
-- [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : an E-commerce Website
+- [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
+- [SPI Computer Club](https://computer-club-spi.vercel.app/) : For a Computer Club
+- [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
+- [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : For an E-commerce Website
 
 
 
