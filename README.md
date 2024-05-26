@@ -1,4 +1,4 @@
-![MasterHead](https://infozla.com/wp-content/uploads/2022/12/61be16afc2df9.jpg)
+![MasterHead]([https://infozla.com/wp-content/uploads/2022/12/61be16afc2df9.jpg](https://media.licdn.com/dms/image/D5616AQH4gHE1gcZ0Lg/profile-displaybackgroundimage-shrink_350_1400/0/1714681628543?e=1722470400&v=beta&t=bF70KhP3H_ZnZhRu6tDRauKtjrpFORJ0ev2TZsMxDh4))
 <h1 align="center">Hi 👋, I'm Shakiqur Rahman</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/a7/81/e1a781c2cfc49e4f02cc72293e853b05.gif">
