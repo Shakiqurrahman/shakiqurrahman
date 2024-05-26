@@ -3,7 +3,7 @@ Hi 👋 I'm Shakiqur, a professional web developer with several years of
 experience creating dynamic, responsive, and userfriendly websites.
 
 - 📫 How to reach me rahmanshakiqur@gmail.com
-- 📄 Know about my experiences [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
+- 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
 
 
 
