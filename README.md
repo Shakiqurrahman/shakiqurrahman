@@ -22,10 +22,5 @@ experience creating dynamic, responsive, and userfriendly websites.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shakiqurrahman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5)](https://visitcount.itsvg.in)
 
