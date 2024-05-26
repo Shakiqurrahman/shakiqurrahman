@@ -6,7 +6,7 @@ experience creating dynamic, responsive, and userfriendly websites. I love to bu
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
 
 ### 🚀 Notable Projects:
-[Project Name 1](Project Link): Brief description of the project.
+[Patagonia Explore](https://patagoniaexplore.com/): This website for a Travel Agency
 [Project Name 2](Project Link): Brief description of the project.
 [Project Name 3](Project Link): Brief description of the project.
 
