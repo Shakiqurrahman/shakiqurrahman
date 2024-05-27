@@ -1,5 +1,5 @@
 [![](https://komarev.com/ghpvc/?username=shakiqurrahman&icon=5&color=5)](https://komarev.com/ghpvc/?username=shakiqurrahman)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shakiqur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&icon=881337&color=0e75b6&style=flat" alt="shakiqur" /> </p>
 
 # 💫 About Me:
 #### Hi 👋 I'm Shakiqur, a professional web developer with 2 years+ of experience creating dynamic, responsive, and userfriendly websites. I love to building innovative solutions and contributing to the open-source community.
