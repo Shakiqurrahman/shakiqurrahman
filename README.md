@@ -4,6 +4,8 @@
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
 
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p>
+
 ### 🚀 Notable Projects:
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
 - [SPI Computer Club](https://computer-club-spi.vercel.app/) : For Our Computer Club
