@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=shakiqurrahman&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=shakiqurrahman&icon=5&color=5)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shakiqur" /> </p>
 
 # 💫 About Me:
