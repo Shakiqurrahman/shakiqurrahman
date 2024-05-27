@@ -3,7 +3,6 @@
 
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p>
 
 
 ### 🚀 Notable Projects:
@@ -12,6 +11,7 @@
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
 - [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : For an E-commerce Website
 
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p>
 
 
 ## 🌐 Connect With Me:
