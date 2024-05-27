@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shakiqur" /> </p>
 
 # 💫 About Me:
 #### Hi 👋 I'm Shakiqur, a professional web developer with 2 years+ of experience creating dynamic, responsive, and userfriendly websites. I love to building innovative solutions and contributing to the open-source community.
