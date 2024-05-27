@@ -1,9 +1,9 @@
 # 💫 About Me:
 #### Hi 👋 I'm Shakiqur, a professional web developer with several years of experience creating dynamic, responsive, and userfriendly websites. I love to building innovative solutions and contributing to the open-source community.
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p> <br />
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.netlify.app/#](https://shakiqur-rahman.netlify.app)
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shakiqurrahman&icon=0&color=5" alt="shakiqur" /> </p> <br />
 
 
 ### 🚀 Notable Projects:
