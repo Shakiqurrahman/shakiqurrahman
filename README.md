@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=oef&style=flat" alt="shakiqur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=000000&style=flat" alt="shakiqur" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakiqurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shakiqur" /> </p>
 
 # 💫 About Me:
