@@ -31,7 +31,7 @@
         src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
     </td>
     <td colspan="2"><img alt="shakiqurrahman :: Top Langs]"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakiqurrahman&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
     </td>
   </tr>
   <tr>
