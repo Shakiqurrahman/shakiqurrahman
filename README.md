@@ -28,15 +28,15 @@
   <h1 align="center">Github Stats</h1>
   <tr>
     <td colspan="1"><img alt="shakiqurrahman :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=false&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td colspan="2"><img alt="shakiqurrahman :: Top Langs]"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-       <img src="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=radical&hide_border=true"/>
+       <img src="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
   </tr>
 </table>
 </p>
