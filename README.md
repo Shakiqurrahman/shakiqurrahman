@@ -36,7 +36,10 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-       <img src="https://streak-stats.demolab.com?user=Shakiqurrahman"/>
+      <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
   </tr>
 </table>
 </p>
