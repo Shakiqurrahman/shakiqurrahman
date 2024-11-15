@@ -36,8 +36,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shakiqurrahman"/></a>
-    </td>
+       <img src="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=radical&hide_border=true"/>
   </tr>
 </table>
 </p>
