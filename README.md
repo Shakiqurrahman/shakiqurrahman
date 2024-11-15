@@ -28,7 +28,7 @@
   <h1 align="center">Github Stats</h1>
   <tr>
     <td colspan="1"><img alt="shakiqurrahman :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=blackIce&hide_border=true&include_all_commits=true&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td colspan="2"><img alt="shakiqurrahman :: Top Langs]"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
@@ -36,10 +36,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=default" />
-</picture>
+    <img src="https://streak-stats.demolab.com?user=Shakiqurrahman&theme=radical" />
     </td>
   </tr>
 </table>
