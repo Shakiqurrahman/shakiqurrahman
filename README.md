@@ -37,6 +37,7 @@
   <tr>
     <td colspan="3" align="center"><img align="center"
         src="https://streak-stats.demolab.com/?user=Shakiqurrahman&theme=radical&hide_border=true">
+      [![GitHub Streak](https://streak-stats.demolab.com?user=Shakiqurrahman)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
