@@ -28,7 +28,7 @@
   <h1 align="center">Github Stats</h1>
   <tr>
     <td colspan="1"><img alt="shakiqurrahman :: Profile Stats"
-        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=black_ice&hide_border=true&include_all_commits=true&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api?username=Shakiqurrahman&theme=blackIce&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td colspan="2"><img alt="shakiqurrahman :: Top Langs]"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakiqurrahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
