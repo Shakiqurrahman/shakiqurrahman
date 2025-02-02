@@ -8,7 +8,7 @@
 
 
 ### 🚀 Notable Projects:
-- [Market Place](https://mahfujurrahm535.com/) : Fiverr Like Website
+- [mahfujurrahm535.com](https://mahfujurrahm535.com/) : Fiverr Like Market Place
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
 - [SPI Computer Club](https://computer-club-spi.vercel.app/) : For Our Computer Club
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
