@@ -8,11 +8,11 @@
 
 
 ### 🚀 Notable Projects:
-- [Market Place](https://mahfujurrahm535.com/)
+- [Market Place](https://mahfujurrahm535.com/) : Fiverr Like Website
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
 - [SPI Computer Club](https://computer-club-spi.vercel.app/) : For Our Computer Club
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
-- [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : For an E-commerce Website
+- [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : an E-commerce Website
 
 
 
