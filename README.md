@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shakiqurrahman&color=fe428e" alt="shakiqur" /></p>
 
 # 💫 About Me :
-<p><b>Hi 👋 I'm Shakiqur,</b> a professional web developer with 2 years+ of experience creating dynamic, responsive, and user-friendly websites. I love to building innovative solutions and contributing to the open-source community.</p>
+<p><b>Hi 👋 I'm Shakiqur,</b> a professional Full Stack Web developer with 2 years+ of experience creating dynamic, responsive, and user-friendly websites. I love to building innovative solutions and contributing to the open-source community.</p>
 
 - 📫 How to reach me rahmanshakiqur@gmail.com
 - 📄 Know about my experiences - Portfolio : [https://shakiqur-rahman.vercel.app](https://shakiqur-rahman.vercel.app)
