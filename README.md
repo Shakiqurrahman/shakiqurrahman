@@ -8,9 +8,9 @@
 
 
 ### 🚀 Notable Projects:
+- [nehajbidyaloy.com](https://mahfujurrahm535.com/) : Nehaj Bidyaloy 
 - [mahfujurrahm535.com](https://mahfujurrahm535.com/) : Fiverr Like Market Place
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
-- [SPI Computer Club](https://computer-club-spi.vercel.app/) : For Our Computer Club
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
 - [Shofy Ecommerce](https://shofy-ecommerce.netlify.app/) : an E-commerce Website
 
