@@ -8,7 +8,7 @@
 
 
 ### 🚀 Notable Projects:
-- [nehajbidyaloy.com](https://mahfujurrahm535.com/) : Nehaj Bidyaloy 
+- [nehajbidyaloy.com](https://nehajbidyaloy.com) : Nehaj Bidyaloy 
 - [mahfujurrahm535.com](https://mahfujurrahm535.com/) : Fiverr Like Market Place
 - [Patagonia Explore](https://patagoniaexplore.com/) : For a Travel Agency
 - [Crypto Wave](https://crypto-wave-agency.netlify.app/) : For a Digital Service Providing Agency
